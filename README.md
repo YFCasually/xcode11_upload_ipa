@@ -1,0 +1,2 @@
+# xcode11_upload_ipa
+用于在xcode11及以上版本的ipa上传至iTunes Connect/AppStoreConnect
